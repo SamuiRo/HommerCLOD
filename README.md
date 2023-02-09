@@ -1,5 +1,5 @@
 
-- /name HommerCLOD                                 
+- /name SamuiRo                                 
                                    
 - /status "Railway Enjoyer 💞"
 
@@ -9,6 +9,7 @@
 
 - /interested "I am interested in blockchain technologies ⛓"
 
+- /twitter "@EthernalPlane"
 
 
 
