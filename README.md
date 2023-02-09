@@ -9,7 +9,7 @@
 
 - /interested "I am interested in blockchain technologies ⛓"
 
-- /mail "hommerclod@gmail.com"
+
 
 
 <!---
